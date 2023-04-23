@@ -1,0 +1,23 @@
+
+=== Thu Dec  8 09:16:18 2022
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.2d.tilemap.extras from version 2.2.3 to 3.0.2
+  com.unity.timeline from version 1.6.4 to 1.7.1
+
+=== Thu Jan 26 00:33:14 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ai.navigation@1.1.1
+The following packages were updated:
+  com.unity.2d.pixel-perfect from version 5.0.2 to 5.0.3
+  com.unity.2d.tilemap.extras from version 3.0.2 to 3.0.3
+  com.unity.ide.rider from version 3.0.15 to 3.0.17
+  com.unity.ide.visualstudio from version 2.0.16 to 2.0.17
+  com.unity.timeline from version 1.7.1 to 1.7.2
